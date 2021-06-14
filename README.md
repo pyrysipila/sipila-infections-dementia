@@ -3,4 +3,4 @@ This is the statistical code for Sipila et al. Hospital-treated infectious disea
 
 The code was created using Stata. Use freely but please cite the source as:
 
-Sipila et al. Hospital-treated infectious diseases and the risk of dementia: multicohort study with replication in the UK Biobank. https://doi.org/10.1101/2020.04.20.20072355.
+Sipila et al. Hospital-treated infectious diseases and the risk of dementia: a large, multicohort, observational study with a replication cohort in the UK Biobank. https://doi.org/10.1101/2020.04.20.20072355.
